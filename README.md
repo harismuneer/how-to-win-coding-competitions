@@ -3,7 +3,6 @@
     Slides Link (Online Version)
   </a>
 </h1>
-<hr>
 <a href="#">
   <div align="center">
     <img src="./main-title.png"/>
